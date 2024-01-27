@@ -1,0 +1,5 @@
+.DS_store
+secrets.txt
+
+# hide all file having txt extension
+# *.txt
